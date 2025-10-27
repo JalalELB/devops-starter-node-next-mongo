@@ -37,5 +37,5 @@ frontend ──► backend ──► database
 
 ## 🧑‍💻 About the Author
 **Jalal El Boumeshouli** — Full-Stack & DevOps Engineer  
-💼 https://www.linkedin.com/in/jalal-elboumeshouli  
+💼 https://www.linkedin.com/in/jalalelb
 🛒 https://jalalelb.gumroad.com
